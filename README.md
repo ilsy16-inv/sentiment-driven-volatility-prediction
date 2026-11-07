@@ -34,7 +34,8 @@ This repository serves as a backup and documentation archive for a Master's thes
 | `04_model/`, `04_modeling/` | XGBoost, LSTM, and GARCH modeling, sentiment ablation experiments, and out-of-sample forecasting |
 | `05_evaluasi/` | Model evaluation results |
 | `06_dokumen_tesis/` | Thesis drafts, figures (EDA, research background, and model diagrams), and tables |
-| `Dashboard Penelitian/` | Research dashboard application and final datasets |
+| `Dashboard Penelitian/` | Research dashboard application and final datasets (earlier version, October 2026) |
+| `streamlit_app/` | Interactive Streamlit dashboard of the conference-revision results; reads all data directly from this repository |
 | `Laporan Progress/` | Research progress reports and presentation materials |
 
 ## Latest Notebook Versions (as of November 7, 2026)
