@@ -1,0 +1,409 @@
+01_scraping_data\berita_sentimen\berita_gabungan_clean.csv (14,286.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita', 'Teks_Input']
+01_scraping_data\berita_sentimen\checkpoint_antara\ADMR_checkpoint.csv (84.2 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_antara\ADRO_checkpoint.csv (859.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_antara\AKRA_checkpoint.csv (185.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_antara\ITMG_checkpoint.csv (206.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_antara\MEDC_checkpoint.csv (981.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_antara\PGAS_checkpoint.csv (2,098.7 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_antara\PTBA_checkpoint.csv (1,482.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_bloomberg\ADMR_checkpoint.csv (38.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_bloomberg\ADRO_checkpoint.csv (65.2 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_bloomberg\AKRA_checkpoint.csv (29.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_bloomberg\ITMG_checkpoint.csv (39.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_bloomberg\MEDC_checkpoint.csv (39.9 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_bloomberg\PGAS_checkpoint.csv (38.4 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_bloomberg\PTBA_checkpoint.csv (59.2 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_cnbc\ADMR_checkpoint.csv (114.2 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_cnbc\ADRO_checkpoint.csv (817.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_cnbc\AKRA_checkpoint.csv (107.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_cnbc\ITMG_checkpoint.csv (228.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_cnbc\MEDC_checkpoint.csv (253.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_cnbc\PGAS_checkpoint.csv (639.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_cnbc\PTBA_checkpoint.csv (814.7 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_detik\ADMR_checkpoint.csv (153.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_detik\ADRO_checkpoint.csv (711.0 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_detik\AKRA_checkpoint.csv (184.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_detik\ITMG_checkpoint.csv (197.0 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_detik\MEDC_checkpoint.csv (657.9 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_detik\PGAS_checkpoint.csv (1,188.9 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_detik\PTBA_checkpoint.csv (953.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_idxchannel\ADMR_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+01_scraping_data\berita_sentimen\checkpoint_idxchannel\ADRO_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+01_scraping_data\berita_sentimen\checkpoint_idxchannel\AKRA_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+01_scraping_data\berita_sentimen\checkpoint_idxchannel\ITMG_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+01_scraping_data\berita_sentimen\checkpoint_idxchannel\MEDC_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+01_scraping_data\berita_sentimen\checkpoint_idxchannel\PGAS_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+01_scraping_data\berita_sentimen\checkpoint_idxchannel\PTBA_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+01_scraping_data\berita_sentimen\checkpoint_kontan\ADMR_checkpoint.csv (1,005.4 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_kontan\ADRO_checkpoint.csv (2,955.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_kontan\AKRA_checkpoint.csv (1,736.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_kontan\ITMG_checkpoint.csv (1,415.9 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_kontan\MEDC_checkpoint.csv (2,105.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_kontan\PGAS_checkpoint.csv (3,267.9 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\checkpoint_kontan\PTBA_checkpoint.csv (2,448.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+01_scraping_data\berita_sentimen\REBUILD_berita_dari_checkpoint.ipynb (27.4 KB) 
+01_scraping_data\berita_sentimen\scraping_antara_news_REVISI.ipynb (2,979.9 KB) 
+01_scraping_data\berita_sentimen\scraping_antara_news_REVISI_v2.ipynb (2,627.8 KB) 
+01_scraping_data\berita_sentimen\scraping_bloomberg_technoz_REVISI.ipynb (2,120.2 KB) 
+01_scraping_data\berita_sentimen\scraping_bloomberg_technoz_REVISI_v2.ipynb (2,460.3 KB) 
+01_scraping_data\berita_sentimen\scraping_cnbc_indonesia_REVISI.ipynb (2,904.1 KB) 
+01_scraping_data\berita_sentimen\scraping_cnbc_indonesia_REVISI_v2.ipynb (2,667.0 KB) 
+01_scraping_data\berita_sentimen\scraping_detik_REVISI_v2.ipynb (564.8 KB) 
+01_scraping_data\berita_sentimen\scraping_kontan_REVISI_v2.ipynb (1,841.4 KB) 
+01_scraping_data\harga_saham\scraping_harga_saham_yfinance_2022-2026.ipynb (500.1 KB) 
+02_preprocessing\EDA\EDA_01_harga_saham.ipynb (555.2 KB) 
+02_preprocessing\EDA\EDA_02_Perhitungan_Log_Return.ipynb (1,503.2 KB) 
+02_preprocessing\EDA\EDA_02_Perhitungan_Log_Return_revisi1.ipynb (1,819.5 KB) 
+02_preprocessing\EDA\EDA_03_volatilitas_return_saham.ipynb (1,374.8 KB) 
+02_preprocessing\EDA\EDA_03_volatilitas_return_saham_revisi1.ipynb (10.1 KB) 
+02_preprocessing\EDA\EDA_04_korelasi.ipynb (2,731.3 KB) 
+02_preprocessing\EDA\FIG_latar_belakang.ipynb (324.5 KB) 
+02_preprocessing\FIG_latar_belakang.ipynb (328.3 KB) 
+02_preprocessing\sentimen_indobert\BANDINGKAN_MODEL_INDOBERT.ipynb (73.2 KB) 
+02_preprocessing\sentimen_indobert\checkpoint_antara\ADMR_checkpoint.csv (84.2 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_antara\ADRO_checkpoint.csv (853.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_antara\AKRA_checkpoint.csv (163.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_antara\ITMG_checkpoint.csv (191.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_antara\MEDC_checkpoint.csv (980.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_antara\PGAS_checkpoint.csv (2,074.2 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_antara\PTBA_checkpoint.csv (1,479.0 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_cnbc\ADMR_checkpoint.csv (114.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_cnbc\ADRO_checkpoint.csv (816.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_cnbc\AKRA_checkpoint.csv (107.0 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_cnbc\ITMG_checkpoint.csv (228.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_cnbc\MEDC_checkpoint.csv (252.9 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_cnbc\PGAS_checkpoint.csv (613.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_cnbc\PTBA_checkpoint.csv (814.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik\ADMR_checkpoint.csv (23.4 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik\ADRO_checkpoint.csv (128.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik\AKRA_checkpoint.csv (38.7 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik\ITMG_checkpoint.csv (7.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik\MEDC_checkpoint.csv (208.4 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik\PGAS_checkpoint.csv (283.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik\PTBA_checkpoint.csv (84.4 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik_negatif\ADRO_checkpoint.csv (49.2 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik_negatif\AKRA_checkpoint.csv (8.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik_negatif\ITMG_checkpoint.csv (3.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik_negatif\MEDC_checkpoint.csv (5.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik_negatif\PGAS_checkpoint.csv (70.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_detik_negatif\PTBA_checkpoint.csv (51.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+02_preprocessing\sentimen_indobert\checkpoint_idx_negatif\ADMR_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idx_negatif\ADRO_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idx_negatif\AKRA_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idx_negatif\ITMG_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idx_negatif\MEDC_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idx_negatif\PGAS_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idx_negatif\PTBA_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idxchannel\ADMR_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idxchannel\ADRO_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idxchannel\AKRA_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idxchannel\ITMG_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idxchannel\MEDC_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idxchannel\PGAS_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\checkpoint_idxchannel\PTBA_checkpoint.csv (0.0 KB) | ⚠️ FILE KOSONG
+02_preprocessing\sentimen_indobert\ckpt\checkpoint-172\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\ckpt\checkpoint-172\tokenizer.json (692.5 KB) 
+02_preprocessing\sentimen_indobert\ckpt\checkpoint-172\tokenizer_config.json (0.4 KB) 
+02_preprocessing\sentimen_indobert\ckpt\checkpoint-172\trainer_state.json (3.6 KB) 
+02_preprocessing\sentimen_indobert\confusion_matrix_perbandingan_model.csv (1.0 KB) | kolom: ['Model', 'Seed', 'Aktual', 'Prediksi', 'Jumlah']
+02_preprocessing\sentimen_indobert\indobert_sentimen_finetuned\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\indobert_sentimen_finetuned\tokenizer.json (692.7 KB) 
+02_preprocessing\sentimen_indobert\indobert_sentimen_finetuned\tokenizer_config.json (0.4 KB) 
+02_preprocessing\sentimen_indobert\indobert_sentimen_finetuned\trainer_state.json (4.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_gabungan_20260715_1600_n1088.csv (186.1 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_gabungan_20260715_1602_n1088.csv (186.1 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_gabungan_20260715_1604_n1088.csv (186.1 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_gabungan_20260715_1608_n1088.csv (186.1 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_gabungan_20260720_0240_n1088.csv (186.1 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_gabungan_20260722_2343_n1088.csv (186.1 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_sentimen_800_FIX.csv (136.9 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_sentimen_980_seimbang.csv (163.1 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_sentimen_VALID_gabungan.csv (146.1 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\anotasi_sentimen_VALID_gabungan_v2.csv (146.9 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_finetuned\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_finetuned\tokenizer.json (692.7 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_finetuned\tokenizer_config.json (0.4 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\INDOBERT_FINETUNING_DATA SAMPLE.ipynb (60.1 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_checkpoint\checkpoint-172\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_checkpoint\checkpoint-172\tokenizer.json (692.5 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_checkpoint\checkpoint-172\tokenizer_config.json (0.4 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_checkpoint\checkpoint-172\trainer_state.json (5.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_checkpoint\checkpoint-215\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_checkpoint\checkpoint-215\tokenizer.json (692.5 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_checkpoint\checkpoint-215\tokenizer_config.json (0.4 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_checkpoint\checkpoint-215\trainer_state.json (6.4 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_finetuned\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_finetuned\tokenizer.json (692.5 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\indobert_sentimen_finetuned\tokenizer_config.json (0.4 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen\tabel\anotasi_sentimen_980.csv (136.9 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen\tabel_evaluasi_indobert.csv (0.4 KB) | kolom: ['Unnamed: 0', 'precision', 'recall', 'f1-score', 'support']
+02_preprocessing\sentimen_indobert\output_sentimen 1\anotasi_tambahan_20260715_1600.csv (39.4 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen 1\anotasi_tambahan_20260715_1601.csv (39.4 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen 1\anotasi_tambahan_20260715_1602.csv (39.4 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen 1\anotasi_tambahan_20260715_1604.csv (39.4 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen 1\anotasi_tambahan_20260722_2343.csv (39.9 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen 1\anotasi_tambahan_targeted.csv (26.0 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen 1\anotasi_tambahan_targeted1.csv (39.9 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen 1\anotasi_tambahan_targeted_kosong.csv (39.6 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Sumber', 'Headline', 'Teks', 'Label_Auto', 'Label_Manual']
+02_preprocessing\sentimen_indobert\output_sentimen 1\ckpt\checkpoint-172\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen 1\ckpt\checkpoint-172\tokenizer.json (692.5 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen 1\ckpt\checkpoint-172\tokenizer_config.json (0.4 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen 1\ckpt\checkpoint-172\trainer_state.json (3.6 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen 1\ckpt\checkpoint-215\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen 1\ckpt\checkpoint-215\tokenizer.json (692.5 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen 1\ckpt\checkpoint-215\tokenizer_config.json (0.4 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen 1\ckpt\checkpoint-215\trainer_state.json (4.3 KB) 
+02_preprocessing\sentimen_indobert\output_sentimen 1\skor_sentimen_per_artikel.csv (26,479.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita', 'Teks', 'Label_Auto', 'P_Negatif', 'P_Netral', 'P_Positif', 'Skor_Sentimen', 'Confidence', 'Label_Sentimen', 'Sentimen_Diskrit']
+02_preprocessing\sentimen_indobert\output_sentimen 1\tabel_confusion_matrix_seluruh_artikel.csv (0.1 KB) | kolom: ['Unnamed: 0', 'Pred_Negatif', 'Pred_Netral', 'Pred_Positif', 'Total_Ref']
+02_preprocessing\sentimen_indobert\output_sentimen 1\tabel_distribusi_sentimen_per_emiten.csv (0.3 KB) | kolom: ['Kode_Emiten', 'Positif', 'Netral', 'Negatif', 'Total', '% Positif', '% Netral', '% Negatif']
+02_preprocessing\sentimen_indobert\perbandingan_model_sentimen.csv (0.3 KB) | kolom: ['Model', 'Parameter (juta)', 'Accuracy', 'F1 macro', 'F1 Negatif', 'F1 Netral', 'F1 Positif', 'Cohen Kappa', 'Waktu latih (menit)']
+02_preprocessing\sentimen_indobert\perbandingan_model_sentimen_per_seed.csv (0.5 KB) | kolom: ['Model', 'Seed', 'Parameter (juta)', 'Accuracy', 'F1 macro', 'F1 Negatif', 'F1 Netral', 'F1 Positif', 'Cohen Kappa', 'Waktu latih (menit)']
+02_preprocessing\sentimen_indobert\tmp_IndoBERT-base-p1_42\checkpoint-165\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\tmp_IndoBERT-base-p1_42\checkpoint-165\trainer_state.json (1.7 KB) 
+02_preprocessing\sentimen_indobert\tmp_IndoBERT-base-p2_42\checkpoint-165\config.json (1.3 KB) 
+02_preprocessing\sentimen_indobert\tmp_IndoBERT-base-p2_42\checkpoint-165\trainer_state.json (1.7 KB) 
+02_preprocessing\sentimen_indobert\tmp_XLM-R_base_42\checkpoint-275\config.json (0.9 KB) 
+02_preprocessing\sentimen_indobert\tmp_XLM-R_base_42\checkpoint-275\trainer_state.json (2.3 KB) 
+02_preprocessing\teknikal\FIX\FIX_revisi konferensi\PREP_01_technical_indicators_FIX_v4.ipynb (64.5 KB) 
+02_preprocessing\teknikal\FIX\output_bab4\tabel_4_8_deskriptif_stochastic.csv (0.5 KB) | kolom: ['Unnamed: 0', 'Stoch_K', 'Stoch_K.1', 'Stoch_K.2', 'Stoch_K.3', 'Stoch_D', 'Stoch_D.1', 'Stoch_D.2', 'Stoch_D.3']
+02_preprocessing\teknikal\FIX\output_bab4\tabel_4_9_deskriptif_fitur_lanjutan.csv (0.5 KB) | kolom: ['Unnamed: 0', 'mean', 'std', 'min', 'max', 'Missing (%)']
+02_preprocessing\teknikal\FIX\PREP_01_technical_indicators_TESIS_FIX v2.ipynb (5,051.4 KB) 
+02_preprocessing\teknikal\FIX\PREP_01_technical_indicators_TESIS_FIX_v1.ipynb (53.3 KB) 
+02_preprocessing\teknikal\FIX\PREP_01_technical_indicators_TESIS_FIX_v3.ipynb (5,088.1 KB) 
+02_preprocessing\teknikal\FIX\PREP_02_indobert_sentimen._TESIS_FIX v4.ipynb (834.1 KB) 
+02_preprocessing\teknikal\FIX\PREP_02_indobert_sentimen_TESIS_FIX_v4..ipynb (1,616.2 KB) 
+02_preprocessing\teknikal\FIX\PREP_03_integrasi_dataset_TESIS_FIX v2.ipynb (49.1 KB) 
+02_preprocessing\teknikal\FIX\preprocessing_teknikal_volatilitas_TESIS_FIX_v3_TANPA_WINSORISASI.ipynb (1,621.0 KB) 
+02_preprocessing\teknikal\FIX\saham_lq45_energi_TEKNIKAL_LENGKAP.csv (3,092.0 KB) | kolom: ['Tanggal', 'Kode_Emiten', 'Open', 'Close', 'High', 'Low', 'Volume', 'Log_Return', 'Volatilitas', 'Volatilitas_Target', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5', 'MA10', 'MA20', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'Stoch_K', 'Stoch_D', 'RSI14', 'Volume_ZScore']
+02_preprocessing\teknikal\PREP_01_technical_indicators.ipynb (4,529.9 KB) 
+02_preprocessing\teknikal\PREP_02_indobert_sentimen_TESIS_FIX v2.ipynb (1,312.5 KB) 
+02_preprocessing\teknikal\PREP_02_indobert_sentimen_TESIS_FIX_v3.ipynb (1,391.0 KB) 
+02_preprocessing\teknikal\PREP_02_indobert_sentimen_V2.ipynb (1,413.9 KB) 
+02_preprocessing\teknikal\preprocessing_teknikal_volatilitas.ipynb (1,426.4 KB) 
+02_preprocessing\teknikal\preprocessing_teknikal_volatilitas_TESIS_FIX v2.ipynb (1,337.9 KB) 
+03_dataset\final\berita_gabungan_semua_sumber_FINAL.csv (25,363.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\final\dataset_final_gabungan.csv (1,811.1 KB) | kolom: ['Tanggal', 'Kode_Emiten', 'Nama_Perusahaan', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'Log_Return', 'Volatilitas_Return', 'RSI', 'MA_5', 'MA_10', 'MA_20', 'Stoch_%K', 'Stoch_%D', 'Skor_Sentimen', 'Jumlah_Artikel', 'Ada_Berita']
+03_dataset\final\dataset_final_normalized.csv (3,980.8 KB) | kolom: ['Date', 'Emiten', 'Close', 'High', 'Low', 'Volume', 'Log_Return', 'Volatilitas', 'MA5', 'MA10', 'MA20', 'EMA12', 'EMA26', 'RSI14', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Middle', 'BB_Lower', 'BB_Width', 'BB_PctB', 'Stoch_K', 'Stoch_D', 'Volume_Change', 'Volume_MA5', 'Volume_ZScore', 'Target_Volatility', 'Skor_Sentimen', 'N_Berita', 'Ada_Berita', 'Skor_Sentimen_Lag1', 'Sentiment_MA20', 'Sentiment_STD20', 'Sentiment_Min20', 'Sentiment_Max20', 'Split']
+03_dataset\final\dataset_gabungan_final.csv (3,636.3 KB) | kolom: ['Date', 'Emiten', 'Close', 'High', 'Low', 'Volume', 'Log_Return', 'Volatilitas', 'MA5', 'MA10', 'MA20', 'EMA12', 'EMA26', 'RSI14', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Middle', 'BB_Lower', 'BB_Width', 'BB_PctB', 'Stoch_K', 'Stoch_D', 'Volume_Change', 'Volume_MA5', 'Volume_ZScore', 'Skor_Sentimen', 'N_Berita', 'Ada_Berita', 'Skor_Sentimen_Lag1', 'Skor_Sentimen_Lag2', 'Sentiment_MA3', 'Sentiment_MA20', 'Sentiment_STD20']
+03_dataset\final\dataset_gabungan_X1X2Y.csv (2,181.8 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_test_ADMR.csv (66.5 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_test_ADRO.csv (70.7 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_test_AKRA.csv (68.4 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_test_ITMG.csv (68.6 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_test_MEDC.csv (68.7 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_test_PGAS.csv (68.9 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_test_PTBA.csv (66.8 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_train_ADMR.csv (265.4 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_train_ADRO.csv (284.9 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_train_AKRA.csv (272.9 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_train_ITMG.csv (276.0 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_train_MEDC.csv (273.5 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_train_PGAS.csv (282.6 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\dataset_train_PTBA.csv (276.6 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita', 'Volatilitas_Target']
+03_dataset\final\hasil_prediksi_garch.csv (106.8 KB) | kolom: ['Date', 'Emiten', 'Y_Aktual', 'Y_Prediksi', 'Residual']
+03_dataset\final\rekap_berita_per_emiten_per_sumber.csv (0.3 KB) | kolom: ['Sumber', 'ADRO', 'ADMR', 'ITMG', 'PTBA', 'MEDC', 'AKRA', 'PGAS', 'TOTAL']
+03_dataset\final\rekap_berita_per_sumber.csv (0.3 KB) | kolom: ['Unnamed: 0', 'Sumber', 'Jumlah_Artikel', 'Periode_Awal', 'Periode_Akhir']
+03_dataset\final\scaler_params_ADMR.csv (0.8 KB) | kolom: ['kolom', 'min', 'max']
+03_dataset\final\scaler_params_ADRO.csv (0.8 KB) | kolom: ['kolom', 'min', 'max']
+03_dataset\final\scaler_params_AKRA.csv (0.8 KB) | kolom: ['kolom', 'min', 'max']
+03_dataset\final\scaler_params_ITMG.csv (0.8 KB) | kolom: ['kolom', 'min', 'max']
+03_dataset\final\scaler_params_MEDC.csv (0.8 KB) | kolom: ['kolom', 'min', 'max']
+03_dataset\final\scaler_params_PGAS.csv (0.8 KB) | kolom: ['kolom', 'min', 'max']
+03_dataset\final\scaler_params_PTBA.csv (0.8 KB) | kolom: ['kolom', 'min', 'max']
+03_dataset\final\tabel_4_2_sampel_artikel.csv (1.3 KB) | kolom: ['No', 'Sumber', 'Emiten', 'Tanggal', 'Title/Headline', 'Text Content']
+03_dataset\final\tabel_4_3_rekap_per_sumber.csv (0.3 KB) | kolom: ['Sumber', 'Jumlah_Artikel', 'Periode_Awal', 'Periode_Akhir', 'Persentase (%)']
+03_dataset\final\tabel_4_4_distribusi_per_emiten_sumber.csv (0.3 KB) | kolom: ['Sumber', 'ADRO', 'ADMR', 'ITMG', 'PTBA', 'MEDC', 'AKRA', 'PGAS', 'Total']
+03_dataset\final\tabel_sampel_artikel_per_sumber.csv (1.1 KB) | kolom: ['No', 'Sumber', 'Emiten', 'Tanggal', 'Title/Headline', 'Text Content']
+03_dataset\final\trial_indobert\anotasi_sentimen_800.csv (67.5 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Teks', 'Label_Auto', 'Label_Manual']
+03_dataset\final\trial_indobert\hasil_scan_per_artikel.csv (605.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita', 'Teks', 'M1 · mdhugol (IndoBERT-p1/Prosa)', 'M2 · w11wo (IndoRoBERTa/SmSA)', 'M3 · taufiqdp (IndoBERT-uncased)', 'M4 · ayameRushia (SmSA)', 'M5 · Aardiiiiy (IndoBERTweet)']
+03_dataset\final\trial_indobert\ringkasan_kandidat.csv (0.3 KB) | kolom: ['Model', 'Sanity', '%Pos', '%Net', '%Neg']
+03_dataset\final\trial_indobert\sampel_uji.csv (598.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita', 'Teks']
+03_dataset\processed\log_return.csv (668.6 KB) | kolom: ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'Kode_Emiten', 'Log_Return']
+03_dataset\processed\sentiment_ready_for_merge.csv (276.3 KB) | kolom: ['Emiten', 'Date', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita']
+03_dataset\processed\skor_sentimen_harian.csv (276.3 KB) | kolom: ['Emiten', 'Date', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'Ada_Berita']
+03_dataset\processed\tabel_4_1_deskriptif_log_return.csv (0.7 KB) | kolom: ['Emiten', 'N (Hari)', 'Mean', 'Std Dev', 'Min', 'Q1 (25%)', 'Median', 'Q3 (75%)', 'Max', 'Skewness', 'Kurtosis']
+03_dataset\processed\tabel_4_2_deskriptif_volatilitas.csv (0.6 KB) | kolom: ['Emiten', 'N (Hari)', 'Mean', 'Std Dev', 'Min', 'Q1 (25%)', 'Median', 'Q3 (75%)', 'Max', 'Vol Annual (Mean)']
+03_dataset\processed\tabel_4_4_deskriptif_log_return.csv (0.7 KB) | kolom: ['Emiten', 'N (Hari)', 'Mean', 'Std Dev', 'Min', 'Q1 (25%)', 'Median', 'Q3 (75%)', 'Max', 'Skewness', 'Kurtosis']
+03_dataset\processed\tabel_4_5_deskriptif_volatilitas.csv (0.6 KB) | kolom: ['Emiten', 'N (Hari)', 'Mean', 'Std Dev', 'Min', 'Q1 (25%)', 'Median', 'Q3 (75%)', 'Max', 'Vol Annual (Mean)']
+03_dataset\processed\tabel_log_return.csv (157.8 KB) | kolom: ['Tanggal', 'ADRO', 'ADMR', 'ITMG', 'PTBA', 'MEDC', 'AKRA', 'PGAS']
+03_dataset\processed\tabel_volatilitas_return.csv (161.1 KB) | kolom: ['Tanggal', 'ADRO', 'ADMR', 'ITMG', 'PTBA', 'MEDC', 'AKRA', 'PGAS']
+03_dataset\processed\technical_features.csv (4,718.0 KB) | kolom: ['Date', 'Emiten', 'Close', 'High', 'Low', 'Volume', 'Log_Return', 'Volatilitas', 'Volatilitas_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'R_Exit', 'Vol_MA5', 'Vol_STD5', 'MA5', 'MA10', 'MA20', 'EMA12', 'EMA26', 'RSI14', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Middle', 'BB_Lower', 'BB_Width', 'BB_PctB', 'Stoch_K', 'Stoch_D', 'Volume_Change', 'Volume_MA5', 'Volume_ZScore', 'GARCH_Forecast']
+03_dataset\processed\technical_features_DESKRIPTIF.csv (1,869.9 KB) | kolom: ['Tanggal', 'Kode_Emiten', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'Log_Return', 'Volatilitas_Return', 'RSI', 'RSI14', 'Stoch_K', 'Stoch_D', 'MA5', 'MA10', 'MA20', 'Target_Volatility']
+03_dataset\processed\technical_features_meta.json (0.7 KB) 
+03_dataset\processed\volatilitas.csv (1,143.4 KB) | kolom: ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'Kode_Emiten', 'Nama_Perusahaan', 'Price_Model', 'Corporate_Action_Flag', 'Log_Return', 'Volatilitas']
+03_dataset\raw\_backup_sebelum_rebuild\berita_antara_lq45_energi.csv (5,508.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\_backup_sebelum_rebuild\berita_antara_tambahan_negatif.csv (42.4 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\_backup_sebelum_rebuild\berita_bloomberg_lq45_energi.csv (732.7 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\_backup_sebelum_rebuild\berita_bloomberg_tambahan_negatif.csv (0.0 KB) | ⚠️ FILE KOSONG
+03_dataset\raw\_backup_sebelum_rebuild\berita_cnbc_lq45_energi.csv (2,666.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\_backup_sebelum_rebuild\berita_detik_lq45_energi.csv (741.2 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\_backup_sebelum_rebuild\berita_detik_tambahan_negatif.csv (143.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\_backup_sebelum_rebuild\berita_kontan_lq45_energi.csv (0.0 KB) | ⚠️ FILE KOSONG
+03_dataset\raw\_backup_sebelum_rebuild\berita_kontan_tambahan_negatif.csv (0.0 KB) | ⚠️ FILE KOSONG
+03_dataset\raw\berita_antara_bersih_v2.csv (5,760.6 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_antara_lq45_energi.csv (5,897.7 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_antara_tambahan_negatif.csv (42.4 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_bloomberg_bersih_v2.csv (124.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_bloomberg_lq45_energi.csv (310.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_bloomberg_tambahan_negatif.csv (0.0 KB) | ⚠️ FILE KOSONG
+03_dataset\raw\berita_cnbc_bersih_v2.csv (2,944.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_cnbc_lq45_energi.csv (2,973.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_detik_bersih_v2.csv (3,057.0 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_detik_lq45_energi.csv (4,044.8 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_detik_tambahan_negatif.csv (143.3 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_kontan_bersih_v2.csv (2,064.0 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_kontan_lq45_energi.csv (14,931.1 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\berita_kontan_tambahan_negatif.csv (0.0 KB) | ⚠️ FILE KOSONG
+03_dataset\raw\berita_semua_sumber_bersih_v2.csv (13,950.5 KB) | kolom: ['Sumber', 'Kode_Emiten', 'Keyword', 'Headline', 'Tanggal', 'Link', 'Isi_Berita']
+03_dataset\raw\GABUNG_BERITA_FINAL.ipynb (3,843.3 KB) 
+03_dataset\raw\harga_saham_raw.csv (554.5 KB) | kolom: ['Date', 'Open', 'High', 'Low', 'Close', 'Adj_Close', 'Volume', 'Emiten']
+03_dataset\raw\tabel_4_1_contoh_data_mentah.csv (1.3 KB) | kolom: ['No', 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'Kode_Emiten', 'Nama_Perusahaan', 'Price_Model', 'Corporate_Action_Flag']
+03_dataset\raw\tabel_4_2_adjusted_close_LENGKAP.csv (91.2 KB) | kolom: ['Tanggal', 'ADRO', 'ADMR', 'ITMG', 'PTBA', 'MEDC', 'AKRA', 'PGAS']
+03_dataset\raw\tabel_4_2_adjusted_close_SAMPEL.csv (0.9 KB) | kolom: ['Tanggal', 'ADRO', 'ADMR', 'ITMG', 'PTBA', 'MEDC', 'AKRA', 'PGAS']
+03_dataset\raw\tabel_4_3_statistik_deskriptif_close.csv (0.4 KB) | kolom: ['Kode_Emiten', 'Jumlah_Observasi', 'Mean', 'Median', 'Minimum', 'Maksimum', 'Std_Deviasi']
+03_dataset\raw\technical_features.csv (2,328.8 KB) | kolom: ['Tanggal', 'Kode_Emiten', 'Nama_Perusahaan', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'Log_Return', 'Volatilitas_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'RSI', 'MA_5', 'MA_10', 'MA_20', 'Stoch_%K', 'Stoch_%D']
+04_model\ABLATION_sentimen.ipynb (181.6 KB) 
+04_model\FIX\ABLATION_sentimen_FIX.ipynb (280.4 KB) 
+04_model\FIX\Baseline_GARCH.ipynb (533.2 KB) 
+04_model\FIX\EVALUASI_perbandingan_FIXv4.ipynb (104.3 KB) 
+04_model\FIX\FORECAST_out_of_sample_FINAL (1).ipynb (482.5 KB) 
+04_model\FIX\FORECAST_out_of_sample_FINAL.ipynb (405.7 KB) 
+04_model\FIX\FORECAST_out_of_sample_v3.ipynb (353.0 KB) 
+04_model\FIX\MODEL_lstm_.v4.ipynb (2,688.1 KB) 
+04_model\FIX\MODEL_xgboost_FIX_V3.ipynb (3,993.0 KB) 
+04_model\FORECAST_out_of_sample (1).ipynb (400.6 KB) 
+04_model\lstm\lstm_best_ADMR.keras (101.2 KB) 
+04_model\lstm\lstm_best_ADRO.keras (101.2 KB) 
+04_model\lstm\lstm_best_AKRA.keras (101.2 KB) 
+04_model\lstm\lstm_best_ITMG.keras (51.5 KB) 
+04_model\lstm\lstm_best_MEDC.keras (101.2 KB) 
+04_model\lstm\lstm_best_PGAS.keras (101.2 KB) 
+04_model\lstm\lstm_best_PTBA.keras (101.2 KB) 
+04_model\lstm\lstm_pooled.keras (459.8 KB) 
+04_model\xgboost\xgb_best_sentimen_ADMR.joblib (1,218.5 KB) 
+04_model\xgboost\xgb_best_sentimen_ADRO.joblib (244.6 KB) 
+04_model\xgboost\xgb_best_sentimen_AKRA.joblib (631.5 KB) 
+04_model\xgboost\xgb_best_sentimen_ITMG.joblib (879.0 KB) 
+04_model\xgboost\xgb_best_sentimen_MEDC.joblib (230.3 KB) 
+04_model\xgboost\xgb_best_sentimen_PGAS.joblib (1,279.6 KB) 
+04_model\xgboost\xgb_best_sentimen_PTBA.joblib (231.6 KB) 
+04_model\xgboost\xgboost_ADMR.pkl (298.7 KB) 
+04_model\xgboost\xgboost_ADRO.pkl (459.1 KB) 
+04_model\xgboost\xgboost_AKRA.pkl (449.6 KB) 
+04_model\xgboost\xgboost_ITMG.pkl (464.7 KB) 
+04_model\xgboost\xgboost_MEDC.pkl (448.6 KB) 
+04_model\xgboost\xgboost_PGAS.pkl (442.7 KB) 
+04_model\xgboost\xgboost_PTBA.pkl (292.4 KB) 
+04_modeling\DIAGNOSTIC_train_test_shift-.ipynb (677.6 KB) 
+04_modeling\FORECAST_garch_out_of_sample.ipynb (306.0 KB) 
+04_modeling\MODEL_ablation_sentimen.ipynb (32.1 KB) 
+04_modeling\MODEL_garch.ipynb (509.1 KB) 
+04_modeling\xgboost\EVALUASI_perbandingan.ipynb (28.5 KB) 
+04_modeling\xgboost\MODEL_lstm_FINAL.ipynb (852.6 KB) 
+04_modeling\xgboost\MODEL_xgboost_FINAL.ipynb (961.0 KB) 
+05_evaluasi\hasil_prediksi_lstm.csv (100.8 KB) | kolom: ['Date', 'Emiten', 'Y_Aktual', 'Y_Prediksi', 'Residual', 'Model']
+05_evaluasi\hasil_prediksi_xgboost.csv (110.7 KB) | kolom: ['Date', 'Emiten', 'Y_Aktual', 'Y_Prediksi', 'Residual', 'Model']
+06_dokumen_tesis\missing_value_harga_saham.csv (0.1 KB) | kolom: ['Unnamed: 0', '0']
+06_dokumen_tesis\tabel\anotasi_sentimen_800.csv (227.7 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Headline', 'Teks_BERT', 'Label_Auto', 'Label_Manual']
+06_dokumen_tesis\tabel\hasil_prediksi_garch.csv (146.4 KB) | kolom: ['Date', 'Emiten', 'Y_Aktual', 'Y_Prediksi', 'Residual', 'Sigma_Harian_GARCH']
+06_dokumen_tesis\tabel\hasil_prediksi_harian_xgboost.csv (107.5 KB) | kolom: ['Date', 'Emiten', 'Y_Aktual', 'Y_Prediksi', 'Residual']
+06_dokumen_tesis\tabel\hasil_prediksi_lstm.csv (74.4 KB) | kolom: ['Date', 'Emiten', 'Y_Aktual', 'Y_Prediksi', 'Residual']
+06_dokumen_tesis\tabel\hasil_prediksi_xgboost.csv (117.1 KB) | kolom: ['Date', 'Emiten', 'Y_Aktual', 'Y_Prediksi', 'Residual']
+06_dokumen_tesis\tabel\tabel_4_6_deskriptif_log_return.csv (0.5 KB) | kolom: ['Emiten', 'N', 'Mean', 'Std', 'Min', 'Max', 'Skewness', 'Kurtosis']
+06_dokumen_tesis\tabel\tabel_4_6_indikator_momentum.csv (0.4 KB) | kolom: ['Emiten', 'RSI_Mean', 'RSI_Std', 'RSI_Min', 'RSI_Max', 'K_Mean', 'K_Std', 'D_Mean', 'D_Std']
+06_dokumen_tesis\tabel\tabel_4_7_deskriptif_ma5_rsi.csv (0.5 KB) | kolom: ['Emiten', 'MA5_Mean', 'MA5_Std', 'MA5_Min', 'MA5_Max', 'RSI_Mean', 'RSI_Std', 'RSI_Min', 'RSI_Max']
+06_dokumen_tesis\tabel\tabel_4_8_deskriptif_stochastic.csv (0.3 KB) | kolom: ['Emiten', 'K_Mean', 'K_Std', 'K_Min', 'K_Max', 'D_Mean', 'D_Std']
+06_dokumen_tesis\tabel\tabel_4_9_deskriptif_fitur_lanjutan.csv (0.5 KB) | kolom: ['Unnamed: 0', 'mean', 'std', 'min', 'max', 'Missing (%)']
+06_dokumen_tesis\tabel\tabel_ablation_mentah.csv (2.9 KB) | kolom: ['Model', 'Skenario', 'Emiten', 'N_Fitur', 'RMSE', 'MAE', 'MAPE (%)', 'sMAPE (%)', 'R2', 'QLIKE', 'Lookback']
+06_dokumen_tesis\tabel\tabel_ablation_sentimen.csv (1.2 KB) | kolom: ['Model', 'Emiten', 'RMSE_Dengan', 'RMSE_Tanpa', 'Δ_RMSE_%', 'MAPE_Dengan', 'MAPE_Tanpa', 'Δ_MAPE_pp', 'R2_Dengan', 'R2_Tanpa', 'Δ_R2', 'Sentimen_Membantu']
+06_dokumen_tesis\tabel\tabel_akurasi_perkelas.csv (0.1 KB) | kolom: ['Kelas', 'Precision (%)', 'Recall (%)', 'F1-Score (%)', 'Jumlah Data']
+06_dokumen_tesis\tabel\tabel_akurasi_ringkas.csv (0.2 KB) | kolom: ['Metrik', 'Nilai (%)']
+06_dokumen_tesis\tabel\tabel_banding_lstm_peremiten_vs_pooled.csv (0.4 KB) | kolom: ['Emiten', 'RMSE_PerEmiten', 'MAPE_PerEmiten', 'R2_PerEmiten', 'RMSE_Pooled', 'MAPE_Pooled', 'R2_Pooled']
+06_dokumen_tesis\tabel\tabel_contoh_log_return_volatilitas_ADRO.csv (201.3 KB) | kolom: ['Date', 'Close', 'Log_Return', 'Volatilitas', 'Volatilitas_Target', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5']
+06_dokumen_tesis\tabel\tabel_contoh_log_return_volatilitas_ADRO_tengah.csv (183.1 KB) | kolom: ['Date', 'Log_Return', 'Volatilitas', 'Volatilitas_Target', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5']
+06_dokumen_tesis\tabel\tabel_contoh_log_return_volatilitas_PTBA.csv (202.2 KB) | kolom: ['Date', 'Close', 'Log_Return', 'Volatilitas', 'Volatilitas_Target', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5']
+06_dokumen_tesis\tabel\tabel_contoh_log_return_volatilitas_PTBA_tengah.csv (196.4 KB) | kolom: ['Date', 'Log_Return', 'Volatilitas', 'Volatilitas_Target', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5']
+06_dokumen_tesis\tabel\tabel_contoh_ma_rasio_stochastic_ADRO.csv (191.9 KB) | kolom: ['Date', 'Close', 'MA5', 'MA10', 'MA20', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'Stoch_K', 'Stoch_D']
+06_dokumen_tesis\tabel\tabel_contoh_ma_rasio_stochastic_ADRO_tengah.csv (189.6 KB) | kolom: ['Date', 'Close', 'MA5', 'MA10', 'MA20', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'Stoch_K', 'Stoch_D']
+06_dokumen_tesis\tabel\tabel_contoh_ma_rasio_stochastic_PTBA.csv (192.0 KB) | kolom: ['Date', 'Close', 'MA5', 'MA10', 'MA20', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'Stoch_K', 'Stoch_D']
+06_dokumen_tesis\tabel\tabel_contoh_ma_rasio_stochastic_PTBA_tengah.csv (202.5 KB) | kolom: ['Date', 'Close', 'MA5', 'MA10', 'MA20', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'Stoch_K', 'Stoch_D']
+06_dokumen_tesis\tabel\tabel_dataset_bulanan.csv (40.3 KB) | kolom: ['Bulan', 'Emiten', 'Close', 'Log_Return', 'Skor_Sentimen', 'N_Berita', 'Volatilitas', 'Bulan_dt', 'Kategori_Sentimen']
+06_dokumen_tesis\tabel\tabel_diagnostic_ks_train_test.csv (0.3 KB) | kolom: ['Emiten', 'KS_Statistic', 'p_value', 'Shift_Signifikan (p<0.05)']
+06_dokumen_tesis\tabel\tabel_diebold_mariano_ablation.csv (0.4 KB) | kolom: ['Emiten', 'DM_Stat_XGB', 'p_value_XGB', 'Signifikan_XGB (p<0.05)', 'DM_Stat_LSTM', 'p_value_LSTM', 'Signifikan_LSTM (p<0.05)']
+06_dokumen_tesis\tabel\tabel_distribusi_berita_sumber_emiten.csv (0.3 KB) | kolom: ['Sumber', 'ADRO', 'ADMR', 'ITMG', 'PTBA', 'MEDC', 'AKRA', 'PGAS', 'TOTAL']
+06_dokumen_tesis\tabel\tabel_distribusi_LABEL_AUTO_per_emiten.csv (0.3 KB) | kolom: ['Kode_Emiten', 'Positif', 'Netral', 'Negatif', 'Total', '% Positif', '% Netral', '% Negatif']
+06_dokumen_tesis\tabel\tabel_distribusi_prediksi_data_asli.csv (0.1 KB) | kolom: ['Label', 'Jumlah', 'Persentase (%)']
+06_dokumen_tesis\tabel\tabel_distribusi_sentimen.csv (0.1 KB) | kolom: ['Label', 'Jumlah', 'Persentase (%)']
+06_dokumen_tesis\tabel\tabel_distribusi_sentimen_per_emiten.csv (0.3 KB) | kolom: ['Kode_Emiten', 'Positif', 'Netral', 'Negatif', 'Total', '% Positif', '% Netral', '% Negatif']
+06_dokumen_tesis\tabel\tabel_evaluasi_garch.csv (0.5 KB) | kolom: ['No', 'Emiten', 'RMSE', 'MAE', 'MAPE (%)', 'R2', 'QLIKE', 'Keterangan_MAPE']
+06_dokumen_tesis\tabel\tabel_evaluasi_garch_vs_model.csv (1.4 KB) | kolom: ['Model', 'Emiten', 'n_uji', 'RMSE', 'MAE', 'MAPE (%)', 'sMAPE (%)', 'R2', 'QLIKE']
+06_dokumen_tesis\tabel\tabel_evaluasi_lstm.csv (0.5 KB) | kolom: ['No', 'Emiten', 'RMSE', 'MAE', 'MAPE (%)', 'sMAPE (%)', 'R2', 'QLIKE', 'Keterangan_MAPE']
+06_dokumen_tesis\tabel\tabel_evaluasi_lstm_pooled.csv (0.4 KB) | kolom: ['Emiten', 'RMSE', 'MAE', 'MAPE (%)', 'sMAPE (%)', 'R2', 'QLIKE', 'Keterangan_MAPE']
+06_dokumen_tesis\tabel\tabel_evaluasi_xgboost.csv (0.7 KB) | kolom: ['No', 'Emiten', 'RMSE', 'MAE', 'MAPE (%)', 'sMAPE (%)', 'R2', 'QLIKE', 'Keterangan']
+06_dokumen_tesis\tabel\tabel_evaluasi_xgboost_multimodal_skala_asli.csv (0.7 KB) | kolom: ['Emiten', 'RMSE', 'MAE', 'MAPE (%)', 'sMAPE (%)', 'R2', 'QLIKE', 'Kriteria']
+06_dokumen_tesis\tabel\tabel_event_study_sentimen_volatilitas.csv (0.4 KB) | kolom: ['Emiten', 'Vol_Sentimen_Negatif', 'Vol_Sentimen_Netral', 'Vol_Sentimen_Positif', 'Selisih (%)', 't_stat', 'p_value', 'Signifikan']
+06_dokumen_tesis\tabel\tabel_feature_importance_xgboost.csv (3.0 KB) | kolom: ['Emiten', 'Fitur', 'Importance']
+06_dokumen_tesis\tabel\tabel_forecast_garch_h1.csv (0.7 KB) | kolom: ['Emiten', 'Basis (hari terakhir data)', 'Vol_Prediksi_GARCH_H1', 'Threshold_Q33', 'Threshold_Q66', 'Kategori_Risiko_GARCH', 'omega', 'alpha1', 'beta1']
+06_dokumen_tesis\tabel\tabel_forecast_garch_multistep.csv (1.4 KB) | kolom: ['Emiten', 'H', 'Tanggal_Estimasi', 'Vol_Prediksi']
+06_dokumen_tesis\tabel\tabel_forecast_h1.csv (0.7 KB) | kolom: ['Emiten', 'Basis (hari terakhir data)', 'Vol_Prediksi_XGBoost', 'Vol_Prediksi_LSTM', 'Selisih_Absolut', 'Threshold_Q33', 'Threshold_Q66', 'Kategori_Risiko_XGB', 'Kategori_Risiko_LSTM']
+06_dokumen_tesis\tabel\tabel_forecast_rekursif_ilustratif.csv (0.8 KB) | kolom: ['H', 'Tanggal_Estimasi', 'Vol_Prediksi', 'Emiten']
+06_dokumen_tesis\tabel\tabel_hyperparameter_best_xgboost_sentimen.csv (0.3 KB) | kolom: ['Emiten', 'n_estimators', 'max_depth', 'learning_rate', 'subsample', 'colsample_bytree', 'min_child_weight']
+06_dokumen_tesis\tabel\tabel_hyperparameter_lstm.csv (0.3 KB) | kolom: ['No', 'Emiten', 'RMSE_Val', 'unit1', 'lr', 'dropout', 'lookback']
+06_dokumen_tesis\tabel\tabel_hyperparameter_xgboost.csv (0.4 KB) | kolom: ['No', 'Emiten', 'RMSE_CV', 'subsample', 'n_estimators', 'min_child_weight', 'max_depth', 'learning_rate', 'gamma', 'colsample_bytree']
+06_dokumen_tesis\tabel\tabel_importance_3tipe_xgboost.csv (0.7 KB) | kolom: ['Fitur', 'cover', 'gain', 'weight']
+06_dokumen_tesis\tabel\tabel_korelasi_fitur_teknikal.csv (1.4 KB) | kolom: ['Unnamed: 0', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore']
+06_dokumen_tesis\tabel\tabel_korelasi_sentimen_volatilitas.csv (0.4 KB) | kolom: ['No', 'Emiten', 'r_pearson', 'p_value', 'Signifikan', 'Interpretasi']
+06_dokumen_tesis\tabel\tabel_multilag_korelasi_sentimen_volatilitas.csv (0.4 KB) | kolom: ['Emiten', 'Lag 0', 'Lag 1', 'Lag 2', 'Lag 3', 'Lag 4', 'Lag 5']
+06_dokumen_tesis\tabel\tabel_parameter_garch.csv (0.4 KB) | kolom: ['Emiten', 'mu', 'omega', 'alpha', 'beta', 'nu', 'alpha+beta']
+06_dokumen_tesis\tabel\tabel_parameter_xgboost.csv (0.3 KB) | kolom: ['No', 'Emiten', 'n_estimators', 'max_depth', 'learning_rate', 'subsample', 'colsample_bytree']
+06_dokumen_tesis\tabel\tabel_peningkatan_relatif_xgb_lstm.csv (0.2 KB) | kolom: ['Emiten', 'RMSE', 'MAE', 'MAPE', 'R2 (poin)']
+06_dokumen_tesis\tabel\tabel_perbandingan_3model.csv (0.8 KB) | kolom: ['No', 'Emiten', 'RMSE_XGB', 'RMSE_LSTM', 'RMSE_Hybrid', 'MAPE_XGB(%)', 'MAPE_LSTM(%)', 'MAPE_Hybrid(%)', 'R2_XGB', 'R2_LSTM', 'R2_Hybrid', 'w_XGB', 'w_LSTM', 'Model Terbaik']
+06_dokumen_tesis\tabel\tabel_perbandingan_xgb_lstm.csv (0.9 KB) | kolom: ['No', 'Emiten', 'RMSE_XGB', 'RMSE_LSTM', 'MAE_XGB', 'MAE_LSTM', 'MAPE_XGB(%)', 'MAPE_LSTM(%)', 'R2_XGB', 'R2_LSTM', 'QLIKE_XGB', 'QLIKE_LSTM', 'Model Terbaik']
+06_dokumen_tesis\tabel\tabel_preview_dataset_bulanan.csv (1.5 KB) | kolom: ['No', 'Bulan', 'Emiten', 'Close', 'Log_Return', 'Skor_Sentimen', 'N_Berita', 'Volatilitas', 'Kategori_Sentimen']
+06_dokumen_tesis\tabel\tabel_preview_dataset_gabungan.csv (1.6 KB) | kolom: ['No', 'Date', 'Emiten', 'Close', 'Log_Return', 'MA5', 'RSI14', 'Stoch_K', 'Stoch_D', 'Skor_Sentimen', 'N_Berita', 'Volatilitas']
+06_dokumen_tesis\tabel\tabel_ringkasan_statistik_per_emiten.csv (0.3 KB) | kolom: ['Emiten', 'Rata-rata Sentimen', 'Rata-rata Volatilitas', 'Total Berita', 'Rata-rata Log Return']
+06_dokumen_tesis\tabel\tabel_sampel_dataset_X1X2Y.csv (1.4 KB) | kolom: ['Unnamed: 0', 'Date', 'Emiten', 'Close', 'Log_Return', 'MA5', 'RSI14', 'Stoch_K', 'Skor_Sentimen', 'Volatilitas']
+06_dokumen_tesis\tabel\tabel_shap_mean_abs.csv (3.0 KB) | kolom: ['Emiten', 'Fitur', 'Mean_Abs_SHAP']
+06_dokumen_tesis\tabel\tabel_shap_per_emiten.csv (1.4 KB) | kolom: ['Fitur', 'ADRO', 'ADMR', 'ITMG', 'PTBA', 'MEDC', 'AKRA', 'PGAS', 'RATA-RATA']
+06_dokumen_tesis\tabel\tabel_split_train_test.csv (0.5 KB) | kolom: ['No', 'Emiten', 'n_total', 'n_train', 'n_test', 'train_start', 'train_end', 'test_start', 'test_end']
+06_dokumen_tesis\tabel\tabel_statistik_deskriptif_dataset_final.csv (1.3 KB) | kolom: ['Unnamed: 0', 'Mean', 'Std', 'Min', 'Median', 'Max']
+06_dokumen_tesis\tabel\tabel_statistik_deskriptif_sentimen.csv (0.5 KB) | kolom: ['Emiten', 'Total Artikel', 'Positif', '% Positif', 'Netral', '% Netral', 'Negatif', '% Negatif', 'Mean Skor', 'Std Skor']
+06_dokumen_tesis\tabel\tabel_statistik_fitur_teknikal.csv (7.4 KB) | kolom: ['Emiten', 'Fitur', 'Mean', 'Std', 'Min', 'Median', 'Max', 'Skewness', 'Kurtosis']
+06_dokumen_tesis\tabel\tabel_trial_epoch.csv (0.2 KB) | kolom: ['epoch', 'Train Loss', 'Val Loss', 'Val Accuracy (%)', 'Val F1 (%)']
+06_dokumen_tesis\tabel\tabel_uji_diebold_mariano.csv (0.4 KB) | kolom: ['No', 'Emiten', 'DM_Statistik', 'p_value', 'Model Lebih Akurat', 'Kesimpulan']
+06_dokumen_tesis\tabel\tabel_uji_dm_garch.csv (0.8 KB) | kolom: ['Emiten', 'Perbandingan', 'DM', 'p-value', 'Kesimpulan']
+06_dokumen_tesis\tabel\validasi_sentimen_kosong.csv (9.3 KB) | kolom: ['Kode_Emiten', 'Tanggal', 'Headline', 'Label_Sentimen', 'Label_Manual']
+06_dokumen_tesis\tabel\verifikasi_H1_vs_aktual.csv (0.7 KB) | kolom: ['Emiten', 'Pred_XGBoost', 'Pred_LSTM', 'Vol_Aktual', 'Err_XGB_%', 'Err_LSTM_%']
+06_dokumen_tesis\Tabel_4_4_statistik_log_return.csv (0.5 KB) | kolom: ['Emiten', 'N', 'Mean', 'Std Dev', 'Min', 'Maks', 'Skewness', 'Excess Kurtosis']
+06_dokumen_tesis\Tabel_4_5_statistik_deskriptif_harga.csv (0.4 KB) | kolom: ['Kode_Emiten', 'Mean', 'Std', 'Min', 'Max', 'Skewness', 'Kurtosis']
+06_dokumen_tesis\Tabel_4_6_statistik_log_return.csv (0.5 KB) | kolom: ['Kode_Emiten', 'Mean', 'Std', 'Min', 'Max', 'Skewness', 'Kurtosis']
+06_dokumen_tesis\Tabel_4_7_statistik_volatilitas.csv (0.3 KB) | kolom: ['Kode_Emiten', 'Mean', 'Std', 'Min', 'Max']
+06_dokumen_tesis\Tabel_4_8_korelasi_feature_target.csv (0.6 KB) | kolom: ['Feature', 'Correlation_with_Volatilitas']
+06_dokumen_tesis\Tabel_4_8_matriks_korelasi.csv (0.4 KB) | kolom: ['Kode_Emiten', 'ADMR', 'ADRO', 'AKRA', 'ITMG', 'MEDC', 'PGAS', 'PTBA']
+06_dokumen_tesis\Tabel_ADF_Harga_Saham.csv (0.3 KB) | kolom: ['Kode_Emiten', 'ADF Statistic', 'p-value', 'Status']
+06_dokumen_tesis\Tabel_Jarque_Bera.csv (0.4 KB) | kolom: ['Kode_Emiten', 'JB Statistic', 'p-value', 'Kesimpulan']
+BANDINGKAN_MODEL_INDOBERT.py (8.6 KB) 
+Dashboard Penelitian\dashboard_app\data_final\00_metadata.json (3.3 KB) 
+Dashboard Penelitian\dashboard_app\data_final\01_technical_features.csv (3,159.3 KB) | kolom: ['Date', 'Emiten', 'Open', 'Close', 'High', 'Low', 'Volume', 'Log_Return', 'Volatilitas', 'Volatilitas_Target', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5', 'MA10', 'MA20', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'Stoch_K', 'Stoch_D', 'RSI14', 'Volume_ZScore']
+Dashboard Penelitian\dashboard_app\data_final\02_sentimen_harian.csv (259.9 KB) | kolom: ['Emiten', 'Date', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'News_Available']
+Dashboard Penelitian\dashboard_app\data_final\03_berita_berlabel.csv (2,315.9 KB) | kolom: ['Sumber', 'Emiten', 'Judul', 'Date', 'Link', 'Label', 'P_Negatif', 'P_Netral', 'P_Positif', 'Skor', 'Confidence', 'Label_Sentimen', 'Sentimen_Diskrit']
+Dashboard Penelitian\dashboard_app\data_final\04_dataset_model.csv (2,224.0 KB) | kolom: ['Date', 'Emiten', 'Log_Return', 'Vol_Lag1', 'Vol_Lag2', 'Vol_Lag3', 'Vol_MA5', 'Vol_STD5', 'MA5_Ratio', 'MA10_Ratio', 'MA20_Ratio', 'RSI14', 'Stoch_K', 'Stoch_D', 'Volume_ZScore', 'Sentiment_Mean', 'Sentiment_Dispersion', 'News_Count', 'News_Available', 'Volatilitas_Target', 'Split']
+Dashboard Penelitian\dashboard_app\data_final\05_metrik_model.csv (1.0 KB) | kolom: ['Model', 'Emiten', 'RMSE', 'MAE', 'MAPE', 'sMAPE', 'R2', 'QLIKE', 'N_test']
+Dashboard Penelitian\dashboard_app\data_final\06_ablasi_sentimen.csv (1.2 KB) | kolom: ['Model', 'Emiten', 'RMSE_Dengan', 'RMSE_Tanpa', 'Delta_RMSE_pct', 'MAPE_Dengan', 'MAPE_Tanpa', 'Delta_MAPE_pp', 'R2_Dengan', 'R2_Tanpa', 'Delta_R2', 'Sentimen_Membantu']
+Dashboard Penelitian\dashboard_app\data_final\07_prediksi_test.csv (216.1 KB) | kolom: ['Date', 'Emiten', 'Model', 'Aktual', 'Prediksi', 'Residual']
+Dashboard Penelitian\dashboard_app\data_final\08_prediksi_h1.csv (1.6 KB) | kolom: ['Emiten', 'Model', 'Prediksi', 'Aktual', 'Error_pct', 'Tanggal_Acuan', 'Kategori_Risiko', 'Threshold_Q33', 'Threshold_Q66', 'Tanggal_Prediksi']
+Dashboard Penelitian\dashboard_app\data_final\09_shap_importance.csv (5.5 KB) | kolom: ['Model', 'Emiten', 'Fitur', 'Mean_Abs_SHAP', 'Kelompok']
+Dashboard Penelitian\dashboard_app\data_final\10_hyperparameter.csv (2.5 KB) | kolom: ['Model', 'Emiten', 'Parameter', 'Nilai']
+Dashboard Penelitian\dashboard_app\data_final\11_uji_diebold_mariano.csv (0.4 KB) | kolom: ['Emiten', 'DM_Statistik', 'p_value', 'Model Lebih Akurat', 'Kesimpulan']
+Dashboard Penelitian\dashboard_app\data_final\12_dm_ablasi_sentimen.csv (0.4 KB) | kolom: ['Emiten', 'DM_Stat_XGB', 'p_value_XGB', 'Signifikan_XGB (p<0.05)', 'DM_Stat_LSTM', 'p_value_LSTM', 'Signifikan_LSTM (p<0.05)']
+Dashboard Penelitian\dashboard_app\data_final\13_korelasi_sentimen_volatilitas.csv (0.4 KB) | kolom: ['Emiten', 'r_pearson', 'p_value', 'Signifikan', 'Interpretasi']
+Dashboard Penelitian\dashboard_app\data_final\14_korelasi_multilag.csv (0.4 KB) | kolom: ['Emiten', 'Lag 0', 'Lag 1', 'Lag 2', 'Lag 3', 'Lag 4', 'Lag 5']
+Dashboard Penelitian\dashboard_app\data_final\15_event_study_sentimen.csv (0.4 KB) | kolom: ['Emiten', 'Vol_Sentimen_Negatif', 'Vol_Sentimen_Netral', 'Vol_Sentimen_Positif', 'Selisih (%)', 't_stat', 'p_value', 'Signifikan']
+Dashboard Penelitian\dashboard_app\data_final\16_evaluasi_indobert.csv (0.4 KB) | kolom: ['precision', 'recall', 'f1-score', 'support']
+Dashboard Penelitian\dashboard_app\data_final\_laporan_persiapan.csv (1.5 KB) | kolom: ['No', 'File', 'Status', 'Keterangan']
+Laporan Progress\INDOBERT_SENTIMEN.ipynb (18.8 KB) 
+Laporan Progress\MODEL_lstm_v3.ipynb (1,034.3 KB) 
+Laporan Progress\scraping_harga_saham_yfinance_2022-2026_FIXED.ipynb (436.3 KB) 
+SIAPKAN_DATA_DASHBOARD.py (20.6 KB) 
+tmp_IndoBERT-base-p1_42\checkpoint-55\config.json (1.3 KB) 
+tmp_IndoBERT-base-p1_42\checkpoint-55\trainer_state.json (1.1 KB) 
