@@ -4,9 +4,8 @@ Repositori backup penelitian Tesis Magister:
 
 **Pemodelan Prediksi Volatilitas Return Saham Sektor Energi (LQ45) Berdasarkan Analisis Sentimen Menggunakan Metode XGBoost dan LSTM**
 
-- Penulis: Ilda Nurida (NRP 6032251068)
+- Penulis: Ilda Nurida
 - Program: Magister, Sekolah Interdisipliner Manajemen dan Teknologi – ITS
-- Dosen Pembimbing: Dr. Ir. Ahmad Saikhu, S.Si, MT.
 - Tahun: 2026
 
 ## Ringkasan Penelitian
