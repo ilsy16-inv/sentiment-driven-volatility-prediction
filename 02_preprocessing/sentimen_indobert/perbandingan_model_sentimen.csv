@@ -1,0 +1,4 @@
+Model,Parameter (juta),Accuracy,F1 macro,F1 Negatif,F1 Netral,F1 Positif,Cohen Kappa,Waktu latih (menit)
+IndoBERT-base-p2,124.4,0.844,0.8285,0.764,0.8718,0.8496,0.7423,31.0
+IndoBERT-base-p1,124.4,0.844,0.8261,0.7765,0.876,0.8257,0.7366,32.6
+XLM-R base,278.0,0.7523,0.7361,0.6939,0.7964,0.7179,0.6052,32.8

@@ -1,0 +1,28 @@
+Model,Seed,Aktual,Prediksi,Jumlah
+IndoBERT-base-p1,42,Negatif,Negatif,33
+IndoBERT-base-p1,42,Negatif,Netral,5
+IndoBERT-base-p1,42,Negatif,Positif,1
+IndoBERT-base-p1,42,Netral,Negatif,10
+IndoBERT-base-p1,42,Netral,Netral,106
+IndoBERT-base-p1,42,Netral,Positif,9
+IndoBERT-base-p1,42,Positif,Negatif,3
+IndoBERT-base-p1,42,Positif,Netral,6
+IndoBERT-base-p1,42,Positif,Positif,45
+IndoBERT-base-p2,42,Negatif,Negatif,34
+IndoBERT-base-p2,42,Negatif,Netral,4
+IndoBERT-base-p2,42,Negatif,Positif,1
+IndoBERT-base-p2,42,Netral,Negatif,13
+IndoBERT-base-p2,42,Netral,Netral,102
+IndoBERT-base-p2,42,Netral,Positif,10
+IndoBERT-base-p2,42,Positif,Negatif,3
+IndoBERT-base-p2,42,Positif,Netral,3
+IndoBERT-base-p2,42,Positif,Positif,48
+XLM-R base,42,Negatif,Negatif,34
+XLM-R base,42,Negatif,Netral,2
+XLM-R base,42,Negatif,Positif,3
+XLM-R base,42,Netral,Negatif,19
+XLM-R base,42,Netral,Netral,88
+XLM-R base,42,Netral,Positif,18
+XLM-R base,42,Positif,Negatif,6
+XLM-R base,42,Positif,Netral,6
+XLM-R base,42,Positif,Positif,42
