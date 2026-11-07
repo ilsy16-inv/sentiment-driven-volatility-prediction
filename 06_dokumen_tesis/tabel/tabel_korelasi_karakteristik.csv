@@ -1,0 +1,6 @@
+﻿,MAPE Naive,"MAPE GARCH(1,1)",MAPE XGBoost,MAPE LSTM,"MAE GARCH(1,1)/Naive",MAE XGBoost/Naive,MAE LSTM/Naive
+Kurtosis return,-0.07,0.71,0.75,0.64,0.89,0.61,0.43
+Vol-of-vol (std),-0.32,-0.11,0.46,-0.21,0.0,0.21,-0.21
+AC(1) vol,0.61,0.25,0.25,-0.18,-0.07,-0.64,-0.46
+Half-life (hari),0.54,-0.11,-0.43,-0.39,-0.43,-0.86,-0.43
+Max vol uji / latih,0.18,-0.39,-0.54,-0.29,-0.5,-0.43,-0.14
