@@ -59,6 +59,6 @@ Notebook yang belum memiliki output (belum dijalankan): `EDA_03_volatilitas_retu
 ## Yang Tidak Disimpan di Repositori Ini
 
 - **Checkpoint & bobot model IndoBERT / XLM-R** (`ckpt/`, `checkpoint-*/`, `model_final/`, `tmp_*`): 475 MB–3 GB per file, melebihi batas GitHub (100 MB).
-  - **Model final** yang dipakai `PREP_02_indobert_sentimen_v5.ipynb` (`02_preprocessing/sentimen_indobert/output_sentimen_v2_manual/model_final/`, ±475 MB) disimpan di Google Drive, folder `TESIS_MODEL_INDOBERT/model_final` (backup 7 November 2026). Untuk memakainya kembali, salin folder tersebut ke path aslinya; notebook akan memuat model tanpa fine-tune ulang.
+  - **Model final** yang dipakai `PREP_02_indobert_sentimen_v5.ipynb` (`02_preprocessing/sentimen_indobert/output_sentimen_v2_manual/model_final/`, ±475 MB) disimpan di [Google Drive](https://drive.google.com/drive/folders/1640To5b2ej4e19HuvrXHUOa2OC7TeYsC) (backup 7 November 2026). Untuk memakainya kembali, salin folder tersebut ke path aslinya; notebook akan memuat model tanpa fine-tune ulang.
 - **`03_dataset_v1_leksikon/`**: salinan `03_dataset/` (ukuran file identik).
 - Environment Python (`venv_tf_new`, `.venv`).
