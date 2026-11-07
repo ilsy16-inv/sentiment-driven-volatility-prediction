@@ -1,0 +1,8 @@
+﻿Emiten,Vol_Sentimen_Negatif,Vol_Sentimen_Netral,Vol_Sentimen_Positif,Selisih (%),t_stat,p_value,Signifikan
+ADRO,0.02508,,0.02513,-0.2,-0.09,0.9282,Tidak
+ADMR,0.03377,,0.03357,0.61,0.383,0.7015,Tidak
+ITMG,0.01798,,0.01807,-0.49,-0.238,0.8116,Tidak
+PTBA,0.01937,0.02038,0.01846,4.95,1.396,0.163,Tidak
+MEDC,0.03029,,0.03006,0.76,0.499,0.6177,Tidak
+AKRA,0.02381,,0.0239,-0.37,-0.227,0.8205,Tidak
+PGAS,0.01918,0.02006,0.01879,2.09,0.859,0.3905,Tidak

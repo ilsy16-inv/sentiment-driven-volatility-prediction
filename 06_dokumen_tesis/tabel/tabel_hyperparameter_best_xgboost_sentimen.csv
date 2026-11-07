@@ -1,0 +1,8 @@
+﻿Emiten,n_estimators,max_depth,learning_rate,subsample,colsample_bytree,min_child_weight
+ADRO,100,5,0.02,0.7,0.7,3
+ADMR,400,6,0.1,0.7,0.8,1
+ITMG,400,5,0.01,0.8,0.7,5
+PTBA,100,5,0.01,0.7,0.8,1
+MEDC,100,5,0.01,0.7,0.8,1
+AKRA,400,4,0.1,0.8,0.7,1
+PGAS,400,7,0.03,0.7,0.9,5

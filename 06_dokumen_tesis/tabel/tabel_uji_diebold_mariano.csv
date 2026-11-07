@@ -1,0 +1,8 @@
+﻿No,Emiten,DM_Statistik,p_value,Model Lebih Akurat,Kesimpulan
+1,ADRO,-6.6031,0.0,XGBoost,Signifikan (α=1%)
+2,ADMR,-8.3842,0.0,XGBoost,Signifikan (α=1%)
+3,ITMG,-5.7528,0.0,XGBoost,Signifikan (α=1%)
+4,PTBA,-11.2429,0.0,XGBoost,Signifikan (α=1%)
+5,MEDC,-8.3058,0.0,XGBoost,Signifikan (α=1%)
+6,AKRA,-9.8968,0.0,XGBoost,Signifikan (α=1%)
+7,PGAS,-3.4412,0.000765,XGBoost,Signifikan (α=1%)

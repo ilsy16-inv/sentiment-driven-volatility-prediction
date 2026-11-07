@@ -1,0 +1,8 @@
+﻿No,Emiten,n_estimators,max_depth,learning_rate,subsample,colsample_bytree
+1,ADMR,300,4,0.03,0.8,0.8
+2,ADRO,300,4,0.03,0.8,0.8
+3,AKRA,300,4,0.03,0.8,0.8
+4,ITMG,300,4,0.03,0.8,0.8
+5,MEDC,300,4,0.03,0.8,0.8
+6,PGAS,300,4,0.03,0.8,0.8
+7,PTBA,300,4,0.03,0.8,0.8

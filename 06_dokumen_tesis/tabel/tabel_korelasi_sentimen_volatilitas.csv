@@ -1,0 +1,8 @@
+﻿No,Emiten,r_pearson,p_value,Signifikan,Interpretasi
+1,ADRO,0.0145,0.6438,Tidak,tidak signifikan
+2,ADMR,-0.0671,0.0316,Ya,korelasi lemah (signifikan)
+3,ITMG,0.0387,0.2154,Tidak,tidak signifikan
+4,PTBA,-0.0312,0.3185,Tidak,tidak signifikan
+5,MEDC,-0.0657,0.0354,Ya,korelasi lemah (signifikan)
+6,AKRA,0.0098,0.7532,Tidak,tidak signifikan
+7,PGAS,-0.018,0.5644,Tidak,tidak signifikan

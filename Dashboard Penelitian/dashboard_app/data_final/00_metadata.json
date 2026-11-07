@@ -1,0 +1,149 @@
+{
+  "versi": "final",
+  "kolom_x1": [
+    "Log_Return",
+    "Vol_Lag1",
+    "Vol_Lag2",
+    "Vol_Lag3",
+    "Vol_MA5",
+    "Vol_STD5",
+    "MA5_Ratio",
+    "MA10_Ratio",
+    "MA20_Ratio",
+    "RSI14",
+    "Stoch_K",
+    "Stoch_D",
+    "Volume_ZScore"
+  ],
+  "kolom_y": "Volatilitas_Target",
+  "kolom_referensi": [
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "MA5",
+    "MA10",
+    "MA20",
+    "Volatilitas"
+  ],
+  "kolom_kunci": [
+    "Date",
+    "Emiten"
+  ],
+  "periode_awal": "2022-01-03",
+  "periode_akhir": "2026-06-30",
+  "n_baris": 7494,
+  "n_emiten": 7,
+  "desain_target": "forecast t+1 (Volatilitas.shift(-1))",
+  "catatan_split": "Time-series split kronologis 80:20, tanpa shuffle",
+  "kolom_x2": [
+    "Sentiment_Mean",
+    "Sentiment_Dispersion",
+    "News_Count",
+    "News_Available"
+  ],
+  "emiten": [
+    "ADRO",
+    "ADMR",
+    "ITMG",
+    "PTBA",
+    "MEDC",
+    "AKRA",
+    "PGAS"
+  ],
+  "split": {
+    "ADRO": {
+      "n_total": "1074",
+      "n_train": "859",
+      "n_test": "215",
+      "train_start": "2022-01-03",
+      "train_end": "2025-08-07",
+      "test_start": "2025-08-08",
+      "test_end": "2026-06-30"
+    },
+    "ADMR": {
+      "n_total": "1050",
+      "n_train": "840",
+      "n_test": "210",
+      "train_start": "2022-02-07",
+      "train_end": "2025-08-14",
+      "test_start": "2025-08-15",
+      "test_end": "2026-06-30"
+    },
+    "ITMG": {
+      "n_total": "1074",
+      "n_train": "859",
+      "n_test": "215",
+      "train_start": "2022-01-03",
+      "train_end": "2025-08-07",
+      "test_start": "2025-08-08",
+      "test_end": "2026-06-30"
+    },
+    "PTBA": {
+      "n_total": "1074",
+      "n_train": "859",
+      "n_test": "215",
+      "train_start": "2022-01-03",
+      "train_end": "2025-08-07",
+      "test_start": "2025-08-08",
+      "test_end": "2026-06-30"
+    },
+    "MEDC": {
+      "n_total": "1074",
+      "n_train": "859",
+      "n_test": "215",
+      "train_start": "2022-01-03",
+      "train_end": "2025-08-07",
+      "test_start": "2025-08-08",
+      "test_end": "2026-06-30"
+    },
+    "AKRA": {
+      "n_total": "1074",
+      "n_train": "859",
+      "n_test": "215",
+      "train_start": "2022-01-03",
+      "train_end": "2025-08-07",
+      "test_start": "2025-08-08",
+      "test_end": "2026-06-30"
+    },
+    "PGAS": {
+      "n_total": "1074",
+      "n_train": "859",
+      "n_test": "215",
+      "train_start": "2022-01-03",
+      "train_end": "2025-08-07",
+      "test_start": "2025-08-08",
+      "test_end": "2026-06-30"
+    }
+  },
+  "lookback_lstm": {
+    "ADRO": 10,
+    "ADMR": 10,
+    "ITMG": 15,
+    "PTBA": 10,
+    "MEDC": 10,
+    "AKRA": 15,
+    "PGAS": 15
+  },
+  "tanggal_update": "2026-10-09 22:41",
+  "daftar_file": [
+    "01_technical_features.csv",
+    "02_sentimen_harian.csv",
+    "03_berita_berlabel.csv",
+    "04_dataset_model.csv",
+    "05_metrik_model.csv",
+    "06_ablasi_sentimen.csv",
+    "07_prediksi_test.csv",
+    "08_prediksi_h1.csv",
+    "09_shap_importance.csv",
+    "10_hyperparameter.csv",
+    "11_uji_diebold_mariano.csv",
+    "12_dm_ablasi_sentimen.csv",
+    "13_korelasi_sentimen_volatilitas.csv",
+    "14_korelasi_multilag.csv",
+    "15_event_study_sentimen.csv",
+    "16_evaluasi_indobert.csv",
+    "_laporan_persiapan.csv"
+  ]
+}

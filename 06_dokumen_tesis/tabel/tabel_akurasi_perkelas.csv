@@ -1,0 +1,4 @@
+﻿Kelas,Precision (%),Recall (%),F1-Score (%),Jumlah Data
+Negatif,89.47,89.47,89.47,38
+Netral,85.94,87.3,86.61,63
+Positif,91.38,89.83,90.6,59

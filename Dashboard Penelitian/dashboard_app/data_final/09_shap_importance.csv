@@ -1,0 +1,120 @@
+﻿Model,Emiten,Fitur,Mean_Abs_SHAP,Kelompok
+XGBoost,ADRO,Log_Return,0.618515,Historis Volatilitas
+XGBoost,ADRO,Vol_Lag1,3.969105,Historis Volatilitas
+XGBoost,ADRO,Vol_Lag2,0.249642,Historis Volatilitas
+XGBoost,ADRO,Vol_Lag3,0.545265,Historis Volatilitas
+XGBoost,ADRO,Vol_MA5,2.647012,Historis Volatilitas
+XGBoost,ADRO,Vol_STD5,0.201862,Historis Volatilitas
+XGBoost,ADRO,MA5_Ratio,0.234578,Teknikal
+XGBoost,ADRO,MA10_Ratio,0.244408,Teknikal
+XGBoost,ADRO,MA20_Ratio,0.307736,Teknikal
+XGBoost,ADRO,RSI14,0.263014,Teknikal
+XGBoost,ADRO,Stoch_K,0.834357,Teknikal
+XGBoost,ADRO,Stoch_D,0.621165,Teknikal
+XGBoost,ADRO,Volume_ZScore,0.400695,Volume
+XGBoost,ADRO,Sentiment_Mean,0.380014,Sentimen
+XGBoost,ADRO,Sentiment_Dispersion,0.308252,Sentimen
+XGBoost,ADRO,News_Count,0.06322,Sentimen
+XGBoost,ADRO,News_Available,0.014078,Sentimen
+XGBoost,ADMR,Log_Return,0.549707,Historis Volatilitas
+XGBoost,ADMR,Vol_Lag1,7.976246,Historis Volatilitas
+XGBoost,ADMR,Vol_Lag2,0.31053,Historis Volatilitas
+XGBoost,ADMR,Vol_Lag3,0.226575,Historis Volatilitas
+XGBoost,ADMR,Vol_MA5,2.405571,Historis Volatilitas
+XGBoost,ADMR,Vol_STD5,0.175302,Historis Volatilitas
+XGBoost,ADMR,MA5_Ratio,0.14259,Teknikal
+XGBoost,ADMR,MA10_Ratio,0.180617,Teknikal
+XGBoost,ADMR,MA20_Ratio,0.178882,Teknikal
+XGBoost,ADMR,RSI14,0.117666,Teknikal
+XGBoost,ADMR,Stoch_K,0.372113,Teknikal
+XGBoost,ADMR,Stoch_D,0.499052,Teknikal
+XGBoost,ADMR,Volume_ZScore,0.300193,Volume
+XGBoost,ADMR,Sentiment_Mean,0.079918,Sentimen
+XGBoost,ADMR,Sentiment_Dispersion,0.025819,Sentimen
+XGBoost,ADMR,News_Count,0.01931,Sentimen
+XGBoost,ADMR,News_Available,0.004305,Sentimen
+XGBoost,ITMG,Log_Return,0.919338,Historis Volatilitas
+XGBoost,ITMG,Vol_Lag1,18.366207,Historis Volatilitas
+XGBoost,ITMG,Vol_Lag2,1.114897,Historis Volatilitas
+XGBoost,ITMG,Vol_Lag3,0.634674,Historis Volatilitas
+XGBoost,ITMG,Vol_MA5,7.486073,Historis Volatilitas
+XGBoost,ITMG,Vol_STD5,0.862961,Historis Volatilitas
+XGBoost,ITMG,MA5_Ratio,0.692905,Teknikal
+XGBoost,ITMG,MA10_Ratio,0.424743,Teknikal
+XGBoost,ITMG,MA20_Ratio,0.528326,Teknikal
+XGBoost,ITMG,RSI14,0.468115,Teknikal
+XGBoost,ITMG,Stoch_K,0.851478,Teknikal
+XGBoost,ITMG,Stoch_D,0.266926,Teknikal
+XGBoost,ITMG,Volume_ZScore,0.66162,Volume
+XGBoost,ITMG,Sentiment_Mean,0.421666,Sentimen
+XGBoost,ITMG,Sentiment_Dispersion,0.66273,Sentimen
+XGBoost,ITMG,News_Count,0.046382,Sentimen
+XGBoost,ITMG,News_Available,0.015598,Sentimen
+XGBoost,PTBA,Log_Return,0.670257,Historis Volatilitas
+XGBoost,PTBA,Vol_Lag1,9.639729,Historis Volatilitas
+XGBoost,PTBA,Vol_Lag2,0.803906,Historis Volatilitas
+XGBoost,PTBA,Vol_Lag3,0.344232,Historis Volatilitas
+XGBoost,PTBA,Vol_MA5,3.118873,Historis Volatilitas
+XGBoost,PTBA,Vol_STD5,0.28172,Historis Volatilitas
+XGBoost,PTBA,MA5_Ratio,0.377012,Teknikal
+XGBoost,PTBA,MA10_Ratio,0.284785,Teknikal
+XGBoost,PTBA,MA20_Ratio,0.396468,Teknikal
+XGBoost,PTBA,RSI14,0.25321,Teknikal
+XGBoost,PTBA,Stoch_K,0.266052,Teknikal
+XGBoost,PTBA,Stoch_D,0.204501,Teknikal
+XGBoost,PTBA,Volume_ZScore,0.179905,Volume
+XGBoost,PTBA,Sentiment_Mean,0.13008,Sentimen
+XGBoost,PTBA,Sentiment_Dispersion,0.256832,Sentimen
+XGBoost,PTBA,News_Count,0.036374,Sentimen
+XGBoost,PTBA,News_Available,0.008683,Sentimen
+XGBoost,MEDC,Log_Return,0.931044,Historis Volatilitas
+XGBoost,MEDC,Vol_Lag1,8.954669,Historis Volatilitas
+XGBoost,MEDC,Vol_Lag2,1.910113,Historis Volatilitas
+XGBoost,MEDC,Vol_Lag3,0.58411,Historis Volatilitas
+XGBoost,MEDC,Vol_MA5,3.129125,Historis Volatilitas
+XGBoost,MEDC,Vol_STD5,0.276487,Historis Volatilitas
+XGBoost,MEDC,MA5_Ratio,0.278233,Teknikal
+XGBoost,MEDC,MA10_Ratio,0.314649,Teknikal
+XGBoost,MEDC,MA20_Ratio,0.425488,Teknikal
+XGBoost,MEDC,RSI14,0.287425,Teknikal
+XGBoost,MEDC,Stoch_K,0.379794,Teknikal
+XGBoost,MEDC,Stoch_D,0.29567,Teknikal
+XGBoost,MEDC,Volume_ZScore,0.254319,Volume
+XGBoost,MEDC,Sentiment_Mean,0.143301,Sentimen
+XGBoost,MEDC,Sentiment_Dispersion,0.052325,Sentimen
+XGBoost,MEDC,News_Count,0.009365,Sentimen
+XGBoost,MEDC,News_Available,0.005253,Sentimen
+XGBoost,AKRA,Log_Return,0.751263,Historis Volatilitas
+XGBoost,AKRA,Vol_Lag1,6.27351,Historis Volatilitas
+XGBoost,AKRA,Vol_Lag2,0.512024,Historis Volatilitas
+XGBoost,AKRA,Vol_Lag3,0.229679,Historis Volatilitas
+XGBoost,AKRA,Vol_MA5,1.093533,Historis Volatilitas
+XGBoost,AKRA,Vol_STD5,0.324825,Historis Volatilitas
+XGBoost,AKRA,MA5_Ratio,0.278763,Teknikal
+XGBoost,AKRA,MA10_Ratio,0.385041,Teknikal
+XGBoost,AKRA,MA20_Ratio,0.201868,Teknikal
+XGBoost,AKRA,RSI14,0.159703,Teknikal
+XGBoost,AKRA,Stoch_K,0.470462,Teknikal
+XGBoost,AKRA,Stoch_D,0.84559,Teknikal
+XGBoost,AKRA,Volume_ZScore,0.172673,Volume
+XGBoost,AKRA,Sentiment_Mean,0.268208,Sentimen
+XGBoost,AKRA,Sentiment_Dispersion,0.205838,Sentimen
+XGBoost,AKRA,News_Count,0.095169,Sentimen
+XGBoost,AKRA,News_Available,0.0063,Sentimen
+XGBoost,PGAS,Log_Return,1.420912,Historis Volatilitas
+XGBoost,PGAS,Vol_Lag1,11.223009,Historis Volatilitas
+XGBoost,PGAS,Vol_Lag2,0.685275,Historis Volatilitas
+XGBoost,PGAS,Vol_Lag3,0.645813,Historis Volatilitas
+XGBoost,PGAS,Vol_MA5,3.859386,Historis Volatilitas
+XGBoost,PGAS,Vol_STD5,0.702053,Historis Volatilitas
+XGBoost,PGAS,MA5_Ratio,0.717568,Teknikal
+XGBoost,PGAS,MA10_Ratio,0.570183,Teknikal
+XGBoost,PGAS,MA20_Ratio,0.684303,Teknikal
+XGBoost,PGAS,RSI14,0.50467,Teknikal
+XGBoost,PGAS,Stoch_K,0.557999,Teknikal
+XGBoost,PGAS,Stoch_D,1.289823,Teknikal
+XGBoost,PGAS,Volume_ZScore,0.670784,Volume
+XGBoost,PGAS,Sentiment_Mean,0.442667,Sentimen
+XGBoost,PGAS,Sentiment_Dispersion,0.433706,Sentimen
+XGBoost,PGAS,News_Count,0.421028,Sentimen
+XGBoost,PGAS,News_Available,0.036954,Sentimen
