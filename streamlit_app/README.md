@@ -1,11 +1,30 @@
-# Dashboard Streamlit — Hasil Penelitian
+# Dashboard Streamlit — Volatilitas Saham Energi LQ45
 
-Dashboard interaktif hasil revisi konferensi (hybrid GARCH–XGBoost dan GARCH–LSTM).
+Dashboard interaktif dua halaman:
+
+- **💼 Investor** (halaman utama) — radar risiko volatilitas besok (H+1) per saham dengan kategori
+  risiko rendah/sedang/tinggi, **simulator skenario berita** (model GARCH–XGBoost dijalankan ulang dengan
+  sentimen negatif/netral/positif pilihan pengguna), analisis historis pergerakan harga setelah berita
+  negatif/positif, dan daftar berita terbaru beserta sentimennya.
+- **🎓 Hasil penelitian** — hasil revisi konferensi (hybrid GARCH–XGBoost dan GARCH–LSTM).
 Semua data dibaca **langsung dari repositori GitHub ini** (alamat `raw.githubusercontent.com`),
 jadi setiap hasil notebook yang di-push otomatis tampil di dashboard (cache 1 jam, atau klik
 **Muat ulang data** di sidebar).
 
-## Isi
+## Struktur file
+
+| File | Isi |
+|---|---|
+| `app.py` | Pintu masuk: tema, sidebar sumber data, navigasi halaman |
+| `common.py` | Konfigurasi, gaya (CSS), dan fungsi bersama (membaca data dari GitHub) |
+| `investor.py` | Halaman Investor |
+| `riset.py` | Halaman Hasil penelitian |
+
+Halaman Investor membaca juga: `06_dokumen_tesis/tabel/tabel_forecast_h1.csv`, `verifikasi_H1_vs_aktual.csv`,
+`03_dataset/final/dataset_gabungan_X1X2Y.csv`, `output_sentimen_v2_manual/skor_sentimen_per_artikel.csv`, dan model
+`04_model/xgboost/xgboost_<EMITEN>.pkl` (XGBoost 3.2.0).
+
+## Isi halaman Hasil penelitian
 
 | Tab | Isi | File sumber |
 |---|---|---|
