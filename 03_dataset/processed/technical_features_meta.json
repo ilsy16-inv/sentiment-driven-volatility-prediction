@@ -1,0 +1,42 @@
+{
+  "versi": "v4 (lag relatif target + fitur hybrid GARCH)",
+  "kolom_x1": [
+    "Log_Return",
+    "Vol_Lag1",
+    "Vol_Lag2",
+    "Vol_Lag3",
+    "Vol_MA5",
+    "Vol_STD5",
+    "MA5_Ratio",
+    "MA10_Ratio",
+    "MA20_Ratio",
+    "RSI14",
+    "Stoch_K",
+    "Stoch_D",
+    "Volume_ZScore",
+    "R_Exit",
+    "GARCH_Forecast"
+  ],
+  "kolom_y": "Volatilitas_Target",
+  "kolom_referensi": [
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "MA5",
+    "MA10",
+    "MA20",
+    "Volatilitas"
+  ],
+  "kolom_kunci": [
+    "Date",
+    "Emiten"
+  ],
+  "periode_awal": "2022-01-03",
+  "periode_akhir": "2026-06-30",
+  "n_baris": 7494,
+  "n_emiten": 7,
+  "desain_target": "forecast t+1 (Volatilitas.shift(-1))",
+  "catatan_split": "Time-series split kronologis 80:20, tanpa shuffle"
+}
