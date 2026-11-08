@@ -1,49 +1,49 @@
-﻿Pembanding,Emiten,DM,p_value,Kesimpulan
-"XGBoost vs GARCH(1,1)",ADRO,2.6845,0.0078,"GARCH(1,1) lebih akurat"
-"XGBoost vs GARCH(1,1)",ADMR,0.3511,0.7258,tidak berbeda signifikan
-"XGBoost vs GARCH(1,1)",ITMG,-0.9502,0.3431,tidak berbeda signifikan
-"XGBoost vs GARCH(1,1)",PTBA,-0.0044,0.9965,tidak berbeda signifikan
-"XGBoost vs GARCH(1,1)",MEDC,2.6976,0.0075,"GARCH(1,1) lebih akurat"
-"XGBoost vs GARCH(1,1)",AKRA,0.3602,0.719,tidak berbeda signifikan
-"XGBoost vs GARCH(1,1)",PGAS,2.6883,0.0077,"GARCH(1,1) lebih akurat"
-"XGBoost vs GARCH(1,1)",Gabungan,3.246,0.0012,"GARCH(1,1) lebih akurat"
-"LSTM vs GARCH(1,1)",ADRO,1.1575,0.2484,tidak berbeda signifikan
-"LSTM vs GARCH(1,1)",ADMR,0.2835,0.7771,tidak berbeda signifikan
-"LSTM vs GARCH(1,1)",ITMG,1.2944,0.1969,tidak berbeda signifikan
-"LSTM vs GARCH(1,1)",PTBA,-1.5837,0.1147,tidak berbeda signifikan
-"LSTM vs GARCH(1,1)",MEDC,0.4173,0.6768,tidak berbeda signifikan
-"LSTM vs GARCH(1,1)",AKRA,0.5948,0.5526,tidak berbeda signifikan
-"LSTM vs GARCH(1,1)",PGAS,3.1799,0.0017,"GARCH(1,1) lebih akurat"
-"LSTM vs GARCH(1,1)",Gabungan,2.1682,0.0303,"GARCH(1,1) lebih akurat"
-XGBoost vs Naive,ADRO,-2.4729,0.0142,XGBoost lebih akurat
-XGBoost vs Naive,ADMR,-2.4376,0.0156,XGBoost lebih akurat
-XGBoost vs Naive,ITMG,-3.1341,0.002,XGBoost lebih akurat
-XGBoost vs Naive,PTBA,-2.7358,0.0067,XGBoost lebih akurat
-XGBoost vs Naive,MEDC,-2.117,0.0354,XGBoost lebih akurat
-XGBoost vs Naive,AKRA,-4.0112,0.0001,XGBoost lebih akurat
-XGBoost vs Naive,PGAS,-1.7502,0.0815,tidak berbeda signifikan
-XGBoost vs Naive,Gabungan,-6.233,0.0,XGBoost lebih akurat
-LSTM vs Naive,ADRO,-3.1277,0.002,LSTM lebih akurat
-LSTM vs Naive,ADMR,-2.4569,0.0148,LSTM lebih akurat
-LSTM vs Naive,ITMG,-2.6134,0.0096,LSTM lebih akurat
-LSTM vs Naive,PTBA,-3.0026,0.003,LSTM lebih akurat
-LSTM vs Naive,MEDC,-2.2649,0.0245,LSTM lebih akurat
-LSTM vs Naive,AKRA,-3.963,0.0001,LSTM lebih akurat
-LSTM vs Naive,PGAS,-1.6003,0.111,tidak berbeda signifikan
-LSTM vs Naive,Gabungan,-6.5175,0.0,LSTM lebih akurat
-"GARCH(1,1) vs Naive",ADRO,-3.3284,0.001,"GARCH(1,1) lebih akurat"
-"GARCH(1,1) vs Naive",ADMR,-2.4681,0.0144,"GARCH(1,1) lebih akurat"
-"GARCH(1,1) vs Naive",ITMG,-2.9997,0.003,"GARCH(1,1) lebih akurat"
-"GARCH(1,1) vs Naive",PTBA,-2.7294,0.0069,"GARCH(1,1) lebih akurat"
-"GARCH(1,1) vs Naive",MEDC,-2.2805,0.0236,"GARCH(1,1) lebih akurat"
-"GARCH(1,1) vs Naive",AKRA,-4.0259,0.0001,"GARCH(1,1) lebih akurat"
-"GARCH(1,1) vs Naive",PGAS,-1.8414,0.0669,tidak berbeda signifikan
-"GARCH(1,1) vs Naive",Gabungan,-6.7307,0.0,"GARCH(1,1) lebih akurat"
-XGBoost vs LSTM,ADRO,2.2798,0.0236,LSTM lebih akurat
-XGBoost vs LSTM,ADMR,0.1711,0.8643,tidak berbeda signifikan
-XGBoost vs LSTM,ITMG,-1.5861,0.1142,tidak berbeda signifikan
-XGBoost vs LSTM,PTBA,1.5522,0.1221,tidak berbeda signifikan
-XGBoost vs LSTM,MEDC,2.2574,0.025,LSTM lebih akurat
-XGBoost vs LSTM,AKRA,-0.3844,0.701,tidak berbeda signifikan
-XGBoost vs LSTM,PGAS,-1.6863,0.0932,tidak berbeda signifikan
-XGBoost vs LSTM,Gabungan,1.9112,0.0562,tidak berbeda signifikan
+﻿Loss,Emiten,Model 1,Model 2,n,DM,p_value,p_holm,Kesimpulan,Signifikan_Holm
+MSE,ADRO,XGBoost,"GARCH(1,1)",215,2.6845,0.0078,0.0313,"GARCH(1,1) lebih akurat",True
+MSE,ADMR,XGBoost,"GARCH(1,1)",210,0.3511,0.7258,1.0,tidak berbeda signifikan,False
+MSE,ITMG,XGBoost,"GARCH(1,1)",215,-0.9502,0.3431,0.3939,tidak berbeda signifikan,False
+MSE,PTBA,XGBoost,"GARCH(1,1)",215,-0.0044,0.9965,0.9965,tidak berbeda signifikan,False
+MSE,MEDC,XGBoost,"GARCH(1,1)",215,2.6976,0.0075,0.0452,"GARCH(1,1) lebih akurat",True
+MSE,AKRA,XGBoost,"GARCH(1,1)",215,0.3602,0.719,1.0,tidak berbeda signifikan,False
+MSE,PGAS,XGBoost,"GARCH(1,1)",215,2.6883,0.0077,0.0387,"GARCH(1,1) lebih akurat",True
+MSE,Gabungan,XGBoost,"GARCH(1,1)",210,3.5359,0.0005,0.0015,"GARCH(1,1) lebih akurat",True
+MSE,ADRO,LSTM,"GARCH(1,1)",215,1.1575,0.2484,0.2484,tidak berbeda signifikan,False
+MSE,ADMR,LSTM,"GARCH(1,1)",210,0.2835,0.7771,1.0,tidak berbeda signifikan,False
+MSE,ITMG,LSTM,"GARCH(1,1)",215,1.2944,0.1969,0.3939,tidak berbeda signifikan,False
+MSE,PTBA,LSTM,"GARCH(1,1)",215,-1.5837,0.1147,0.3442,tidak berbeda signifikan,False
+MSE,MEDC,LSTM,"GARCH(1,1)",215,0.4173,0.6768,0.6768,tidak berbeda signifikan,False
+MSE,AKRA,LSTM,"GARCH(1,1)",215,0.5948,0.5526,1.0,tidak berbeda signifikan,False
+MSE,PGAS,LSTM,"GARCH(1,1)",215,3.1799,0.0017,0.0101,"GARCH(1,1) lebih akurat",True
+MSE,Gabungan,LSTM,"GARCH(1,1)",210,1.9102,0.0575,0.0603,tidak berbeda signifikan,False
+MSE,ADRO,XGBoost,Naive,215,-2.4729,0.0142,0.0425,XGBoost lebih akurat,True
+MSE,ADMR,XGBoost,Naive,210,-2.4376,0.0156,0.0863,XGBoost lebih akurat,False
+MSE,ITMG,XGBoost,Naive,215,-3.1341,0.002,0.0118,XGBoost lebih akurat,True
+MSE,PTBA,XGBoost,Naive,215,-2.7358,0.0067,0.0337,XGBoost lebih akurat,True
+MSE,MEDC,XGBoost,Naive,215,-2.117,0.0354,0.1178,XGBoost lebih akurat,False
+MSE,AKRA,XGBoost,Naive,215,-4.0112,0.0001,0.0005,XGBoost lebih akurat,True
+MSE,PGAS,XGBoost,Naive,215,-1.7502,0.0815,0.2678,tidak berbeda signifikan,False
+MSE,Gabungan,XGBoost,Naive,210,-5.5957,0.0,0.0,XGBoost lebih akurat,True
+MSE,ADRO,LSTM,Naive,215,-3.1277,0.002,0.01,LSTM lebih akurat,True
+MSE,ADMR,LSTM,Naive,210,-2.4569,0.0148,0.0863,LSTM lebih akurat,False
+MSE,ITMG,LSTM,Naive,215,-2.6134,0.0096,0.0384,LSTM lebih akurat,True
+MSE,PTBA,LSTM,Naive,215,-3.0026,0.003,0.018,LSTM lebih akurat,True
+MSE,MEDC,LSTM,Naive,215,-2.2649,0.0245,0.1178,LSTM lebih akurat,False
+MSE,AKRA,LSTM,Naive,215,-3.963,0.0001,0.0005,LSTM lebih akurat,True
+MSE,PGAS,LSTM,Naive,215,-1.6003,0.111,0.2678,tidak berbeda signifikan,False
+MSE,Gabungan,LSTM,Naive,210,-5.8871,0.0,0.0,LSTM lebih akurat,True
+MSE,ADRO,"GARCH(1,1)",Naive,215,-3.3284,0.001,0.0062,"GARCH(1,1) lebih akurat",True
+MSE,ADMR,"GARCH(1,1)",Naive,210,-2.4681,0.0144,0.0863,"GARCH(1,1) lebih akurat",False
+MSE,ITMG,"GARCH(1,1)",Naive,215,-2.9997,0.003,0.0151,"GARCH(1,1) lebih akurat",True
+MSE,PTBA,"GARCH(1,1)",Naive,215,-2.7294,0.0069,0.0337,"GARCH(1,1) lebih akurat",True
+MSE,MEDC,"GARCH(1,1)",Naive,215,-2.2805,0.0236,0.1178,"GARCH(1,1) lebih akurat",False
+MSE,AKRA,"GARCH(1,1)",Naive,215,-4.0259,0.0001,0.0005,"GARCH(1,1) lebih akurat",True
+MSE,PGAS,"GARCH(1,1)",Naive,215,-1.8414,0.0669,0.2678,tidak berbeda signifikan,False
+MSE,Gabungan,"GARCH(1,1)",Naive,210,-6.0881,0.0,0.0,"GARCH(1,1) lebih akurat",True
+MSE,ADRO,XGBoost,LSTM,215,2.2798,0.0236,0.0472,LSTM lebih akurat,True
+MSE,ADMR,XGBoost,LSTM,210,0.1711,0.8643,1.0,tidak berbeda signifikan,False
+MSE,ITMG,XGBoost,LSTM,215,-1.5861,0.1142,0.3426,tidak berbeda signifikan,False
+MSE,PTBA,XGBoost,LSTM,215,1.5522,0.1221,0.3442,tidak berbeda signifikan,False
+MSE,MEDC,XGBoost,LSTM,215,2.2574,0.025,0.1178,LSTM lebih akurat,False
+MSE,AKRA,XGBoost,LSTM,215,-0.3844,0.701,1.0,tidak berbeda signifikan,False
+MSE,PGAS,XGBoost,LSTM,215,-1.6863,0.0932,0.2678,tidak berbeda signifikan,False
+MSE,Gabungan,XGBoost,LSTM,210,2.1829,0.0302,0.0603,LSTM lebih akurat,False
